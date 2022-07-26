@@ -15,4 +15,4 @@ Run moon_patrol.py in the "venv" directory
 - Use directional arrows to move to the left and to the right.
 - Use "Space" to jump
 - Press "X" to shoot
-If you touch any obstacle GAME OVER.
+- If you touch any obstacle GAME OVER.
